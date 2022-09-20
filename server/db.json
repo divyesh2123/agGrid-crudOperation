@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "name": "Vikas Kumar1",
+      "email": "vikas62081@gmail.com",
+      "phone": "+919876543210",
+      "dob": "",
+      "id": 6
+    },
+    {
+      "name": "Mohan",
+      "email": "vikas62081@gmail.com",
+      "phone": "+919876543210",
+      "dob": "22/01/1996",
+      "id": 7
+    }
+  ]
+}
